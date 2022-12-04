@@ -1,0 +1,10 @@
+Commande :
+
+// Install all the required packages
+npm i
+
+// Insert some data in the database
+npm run seed
+
+// Start the server
+npm start
